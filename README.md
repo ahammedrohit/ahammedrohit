@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Ahammed Rohid</h1>
 <h3 align="center">A passionate Web Developer and a Machine Learning enthusiast.</h3>
+
 A curious learner and excellent team player searching for a challenging position as a Software Engineer to
 utilize my technical competencies,working knowledge of software development and excellent communication skills to grow as a Software Engineer.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammedrohit&label=Profile%20views&color=0e75b6&style=flat" alt="ahammedrohit" /> </p>
+![Profile views](https://gpvc.arturio.dev/ahammedrohit)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammedrohit" alt="ahammedrohit" /></a> </p>
 
