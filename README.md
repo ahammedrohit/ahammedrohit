@@ -4,11 +4,6 @@
 A curious learner and excellent team player searching for a challenging position as a Software Engineer to
 utilize my technical competencies,working knowledge of software development and excellent communication skills to grow as a Software Engineer.
 
-
-![Profile views](https://gpvc.arturio.dev/ahammedrohit)  
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammedrohit" alt="ahammedrohit" /></a> </p>
-
 - 📫 How to reach me **ahammedrohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
